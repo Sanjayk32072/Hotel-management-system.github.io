@@ -1,1 +1,4 @@
-# Hotel-management-system.github.io
+# Hotel-management-system
+
+The hotel management system app, made with Core Java, Swing, JDBC, AWT, and MySQL Workbench, simplifies hotel tasks. It manages rooms, reservations, and billing efficiently. Using JDBC, it connects to MySQL for data storage and retrieval. The app's Swing and AWT interface offers user-friendly navigation. You can add, update, and delete room and guest details seamlessly. It checks room availability and confirms reservations promptly. The system calculates bills accurately based on reservation details. Reports on occupancy and revenue can be generated effortlessly. Security measures ensure data protection. Thorough testing ensures smooth functionality. Overall, it optimizes hotel operations, enhancing both staff efficiency and guest satisfaction.
+As a minor project...
